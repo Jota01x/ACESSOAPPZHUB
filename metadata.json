@@ -1,8 +1,0 @@
-{
-  "name": "APPZHUB",
-  "description": "Uma área de membros exclusiva para acesso a documentos premium com proteção por chave de acesso.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
